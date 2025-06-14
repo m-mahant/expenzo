@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expenzo/static/css/main.6d7ff9db.css",
+    "main.js": "/expenzo/static/js/main.4d54e205.js",
+    "index.html": "/expenzo/index.html",
+    "main.6d7ff9db.css.map": "/expenzo/static/css/main.6d7ff9db.css.map",
+    "main.4d54e205.js.map": "/expenzo/static/js/main.4d54e205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d7ff9db.css",
+    "static/js/main.4d54e205.js"
+  ]
+}
